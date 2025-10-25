@@ -1,0 +1,17 @@
+pqp:
+  currency: SGD
+  updated: "2025-10-25"
+  default_cat: A
+  categories:
+    A:
+      ten_year: 122000        # user input for Cat A 10-year PQP
+      five_year: 61000
+    B:
+      ten_year: 131889
+      five_year: 65945
+    C:
+      ten_year: 76801
+      five_year: 38000
+    E:
+      ten_year: 136000
+      five_year: 68000
